@@ -14,8 +14,6 @@ By using the application New user can be created programmatically along with aud
 * Enable/Disable Web Terminal Application by code
 * Authenticate/Unauthenticate Web Terminal Application by code
 
-## Online Demo
-https://dappsecurity.demo.community.intersystems.com/csp/user/index.csp by using SuperUser | SYS
 ## Community Articles
 https://community.intersystems.com/post/programmatically-create-users-grant-privileges-enabledisable-and-authenticateunauthenticate-web 
 For OAuth2 GitHub authentication
